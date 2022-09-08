@@ -1,0 +1,10 @@
+div.list1{
+    text-align: center;
+}
+/* .list1{
+    column-gap: 40px;
+} */
+ul { 
+	display: inline-block; 
+	text-align: left; 
+}

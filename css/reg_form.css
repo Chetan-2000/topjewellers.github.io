@@ -1,0 +1,9 @@
+.formhead{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.searchbar {
+    position: absolute;
+    right: 0;
+} 
